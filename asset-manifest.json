@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Competitors-List/static/css/main.0beb2bc2.css",
+    "main.js": "/Competitors-List/static/js/main.2a0190f0.js",
+    "index.html": "/Competitors-List/index.html",
+    "main.0beb2bc2.css.map": "/Competitors-List/static/css/main.0beb2bc2.css.map",
+    "main.2a0190f0.js.map": "/Competitors-List/static/js/main.2a0190f0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0beb2bc2.css",
+    "static/js/main.2a0190f0.js"
+  ]
+}
